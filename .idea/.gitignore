@@ -6,3 +6,9 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+.pyc
+.DS_Store
+__pycache__/
+db.sqlite3
+*.key
+thumbs.db
