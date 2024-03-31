@@ -30,7 +30,7 @@ SECRET_KEY = 'a7!(zp)&%@y(x*$7+m0ldisvg&)&k7r&iuki3ntc5x&l8ymekq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rangodemo2020.pythonanywhere.com',
+ALLOWED_HOSTS = ['BrodiesRangoApp.pythonanywhere.com',
                  '127.0.0.1']
 
 
